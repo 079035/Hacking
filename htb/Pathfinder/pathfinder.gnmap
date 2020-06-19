@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Tue Jun 16 20:35:25 2020 as: nmap -sC -sV -oA pathfinder 10.10.10.30
+Host: 10.10.10.30 ()	Status: Up
+Host: 10.10.10.30 ()	Ports: 53/open/tcp//domain?///, 88/open/tcp//kerberos-sec//Microsoft Windows Kerberos (server time: 2020-06-17 07:39:40Z)/, 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 389/open/tcp//ldap//Microsoft Windows Active Directory LDAP (Domain: MEGACORP.LOCAL0., Site: Default-First-Site-Name)/, 445/open/tcp//microsoft-ds?///, 464/open/tcp//kpasswd5?///, 593/open/tcp//ncacn_http//Microsoft Windows RPC over HTTP 1.0/, 636/open/tcp//tcpwrapped///, 3268/open/tcp//ldap//Microsoft Windows Active Directory LDAP (Domain: MEGACORP.LOCAL0., Site: Default-First-Site-Name)/, 3269/open/tcp//tcpwrapped///	Ignored State: closed (989)
+# Nmap done at Tue Jun 16 20:40:07 2020 -- 1 IP address (1 host up) scanned in 281.97 seconds
